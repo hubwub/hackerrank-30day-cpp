@@ -1,4 +1,4 @@
-# hackerrank-30day-cpp14
+# hackerrank-30day-cpp
 
 ----
 
