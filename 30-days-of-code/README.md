@@ -1,4 +1,4 @@
-# hackerrank-30day-cpp
+# 30 Day of Code
 
 ----
 
